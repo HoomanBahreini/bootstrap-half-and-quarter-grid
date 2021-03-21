@@ -13,8 +13,8 @@ Also note that you can use responsive classes, such as:
 
 1. `col-sm-2-half` (2.5)
 2. `col-md-0-3qtr` (0.75)
-3. `col-11-1qtr` (11.25) 
-4. `col-5-lg-half` (5.5)
+3. `col-lg-11-1qtr` (11.25) 
+4. `col-xl-5-half` (5.5)
 
 
 Example:
