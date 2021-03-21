@@ -18,3 +18,13 @@ The following example devide the screen in 2 columns with half and quarter fract
   </div>
 </div>
 ````
+
+Usage:
+------
+
+If you want to use the file from an existing CDN, you can use one of the following:
+
+https://cdn.jsdelivr.net/gh/hoomanbahreini/bootstrap-half-and-quarter-grid/custom-bootstrap-grid.css
+https://cdn.jsdelivr.net/gh/hoomanbahreini/bootstrap-half-and-quarter-grid/custom-bootstrap-grid.min.css
+
+or you can copy-paste the entore css in your own project.
