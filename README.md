@@ -43,4 +43,4 @@ If you want to use the file from an existing CDN, you can use one of the followi
 https://cdn.jsdelivr.net/gh/hoomanbahreini/bootstrap-half-and-quarter-grid/fractional-grid.css
 https://cdn.jsdelivr.net/gh/hoomanbahreini/bootstrap-half-and-quarter-grid/fractional-grid.min.css
 
-or you can copy-paste the entore css in your own project.
+or you can copy-paste the entire css in your own project.
