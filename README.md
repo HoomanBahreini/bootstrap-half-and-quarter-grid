@@ -1,2 +1,20 @@
 # bootstrap-4-hanf-and-quarter-grid
-This project allows you to use half/quarter columns using Bootstrap 4 grid system, for example you can have col-sm-3-and-half or col-lg-1-and-quarter
+This project allows you to use half/quarter columns using Bootstrap 4 grid system:
+
+Example:
+--------
+
+To divide the the 
+
+````
+<div class="container">
+  <div class="row">
+    <div class="col-sm-2-and-quarter col-lg-3-and-half">
+      Column1
+    </div>
+    <div class="col-sm-9-and-half col-lg-8-and-3quarter">
+      Column2
+    </div>
+  </div>
+</div>
+````
