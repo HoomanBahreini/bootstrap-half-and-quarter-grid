@@ -4,7 +4,7 @@ This project allows you to use half/quarter columns using Bootstrap 4 grid syste
 Example:
 --------
 
-To divide the the 
+The following example devide the screen in 2 columns with half and quarter fractions of standard grid system:
 
 ````
 <div class="container">
