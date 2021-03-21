@@ -1,4 +1,4 @@
-# bootstrap-4-hanf-and-quarter-grid
+# bootstrap-half-and-quarter-grid
 This project allows you to use half/quarter columns using Bootstrap 4 grid system:
 
 Example:
