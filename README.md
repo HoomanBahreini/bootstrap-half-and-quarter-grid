@@ -23,13 +23,14 @@ Example:
 The following example devide the screen in 2 columns with half and quarter fractions of standard grid system:
 
 ````
+// add a reference to: https://cdn.jsdelivr.net/gh/hoomanbahreini/bootstrap-half-and-quarter-grid/fractional-grid.min.css
 <div class="container">
   <h2>Using fraction of columns</h2>
   <div class="row">
-    <div class="col-2-1qtr bg-success">2 and quarter</div>
-    <div class="col-3-3qtr bg-warning">3 and 3 quarter</div>
-    <div class="col-2-and-half bg-success">2 and half</div>
-    <div class="col-3-and-half bg-warning">3 and half</div>
+    <div class="col-2-3qtr bg-success">col-2-3qtr (2.75)</div>
+    <div class="col-3-1qtr bg-warning">col-3-1qtr (3.25)</div>
+    <div class="col-3-half bg-success">col-3-half (3.5)</div>
+    <div class="col-2-half bg-warning">col-2-half (2.5)</div>
   </div>
 </div>
 ````
