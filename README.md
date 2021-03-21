@@ -13,16 +13,16 @@ Example:
 The following example devide the screen in 2 columns with half and quarter fractions of standard grid system:
 
 ````
-<div class="container">
-  <div class="row">
-    <div class="col-sm-2-and-quarter col-lg-3-and-half">
-      Column1
+    <div class="container">
+      <h2>Using fraction of columns</h2>
+      <div class="row">
+        <div class="col-1-and-quarter bg-success">col-1-and-quarter</div>
+        <div class="col-6-and-3quarter bg-warning">col-6-and-3quarter</div>
+        <div class="col-1-and-half bg-success">col-1-and-half</div>
+        <div class="col-2-and-half bg-warning">col-2-and-half</div>
+      </div>
     </div>
-    <div class="col-sm-9-and-half col-lg-8-and-3quarter">
-      Column2
-    </div>
-  </div>
-</div>
+
 ````
 
 Usage:
